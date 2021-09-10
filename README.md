@@ -1,3 +1,7 @@
+
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)        
+        
 # Node-RED Docker
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/node-red/node-red-docker.svg)](https://greenkeeper.io/)
