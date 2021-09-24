@@ -1,6 +1,6 @@
 
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)        
+![test](http://slimbadge.io/python%3Aslim.jpg)
         
 # Node-RED Docker
 
